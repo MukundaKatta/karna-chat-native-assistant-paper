@@ -1,0 +1,10 @@
+AI agents
+personal assistants
+chat-native systems
+multi-channel agents
+agent architecture
+memory systems
+workflow automation
+self-hosted AI
+TypeScript
+operator visibility

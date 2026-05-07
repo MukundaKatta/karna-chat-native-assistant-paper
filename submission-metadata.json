@@ -1,0 +1,17 @@
+{
+  "title": "Karna: A Chat-Native, Multi-Channel Architecture for Personal AI Chief-of-Staff Agents",
+  "authors": [
+    {
+      "name": "Mukunda Rao Katta",
+      "affiliation": "Independent Researcher",
+      "email": "mukunda.vjcs6@gmail.com"
+    }
+  ],
+  "publication_date": "2026-05-07",
+  "version": "v1",
+  "resource_type": "preprint",
+  "license": "CC-BY-4.0",
+  "repository_url": "https://github.com/MukundaKatta/karna",
+  "primary_platform_targets": ["Zenodo", "Qeios", "Figshare", "ScienceOpen"],
+  "status": "prepared"
+}
